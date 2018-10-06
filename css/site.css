@@ -111,9 +111,9 @@
                 padding-bottom: 20px;
             }
             .success-text {
-                font-size: 50px;
-                line-height: 61px;
-                padding-bottom: 10px;
+                font-size: 52px;
+                line-height: 62px;
+			padding-bottom: 12px;
             }
             .description {
                 font-size: 26px;
@@ -121,8 +121,8 @@
             }
 
             .step {
-                font-size: 12px;
-                line-height: 18px;
+                font-size: 10px;
+                line-height: 17px;
             }
             .tweet-container {
                 top: 80px;
